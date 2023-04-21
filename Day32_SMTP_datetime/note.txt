@@ -1,0 +1,9 @@
+1. Issues with email access:
+configure with email account to set APP password
+
+2. Python anywhere account to set up python running servers
+
+3. SMTP servers:
+Gmail	gmail.com	smtp.gmail.com
+Outlook	outlook.com	smtp-mail.outlook.com
+Yahoo!	mail.yahoo.com	smtp.mail.yahoo.com
